@@ -27,18 +27,15 @@ them work in subtle cycles
 4. "The system shall be able to run on Linux, FreeBSD, and OpenBSD systems." Is this an example of a program requirement or design constraint?  Why?
 
 ```
-________________________________________________________________________
-
-________________________________________________________________________
-
-________________________________________________________________________
+Design Constraint because this statement constrains the way in which the software can be developed and 
+implemented. The software has to be designed in such a way that it can run on Linux, FreeBSD, and OpenBSD systems.
 
 ```
 
 5. What are two __nontechnical__ considerations of software development and support covered by Tsui _et al_?
 
 ```
-________________________________________________________________________
+Effort Estimation and Schedule
 
-________________________________________________________________________
+Assignments and Communications
 ```
