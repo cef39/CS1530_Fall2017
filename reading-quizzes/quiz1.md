@@ -13,17 +13,13 @@ Fascination of fashioning complex puzzle-like objects of interlocking moving par
 2. If you have a team of 15 people, assuming intercommunication between all of them, how many pairwise communication channels are there on your team?  (I am looking for a specific number, not a formula)
 
 ```
-____________________________________
+105
 ```
 
 3. What is Brooks's Law?
 
 ```
-________________________________________________________________________
-
-________________________________________________________________________
-
-________________________________________________________________________
+"Adding manpower to a late software project makes it later."
 
 ```
 
