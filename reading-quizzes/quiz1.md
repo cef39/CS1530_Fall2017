@@ -1,4 +1,4 @@
-Name: `____________________________________` Class start time: `_____________`
+Name: `Christian Flickinger` Class start time: `1:00PM`
 
 1. According to Fred Brooks, what are three _joys_ of programming, that is, things that make it fun?
 
