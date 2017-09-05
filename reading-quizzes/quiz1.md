@@ -7,7 +7,8 @@ Joy of making things
 
 Pleasure of making things that are useful to other people
 
-Fascination of fashioning complex puzzle-like objects of interlocking moving parts and watching them work in subtle cycles
+Fascination of fashioning complex puzzle-like objects of interlocking moving parts and watching 
+them work in subtle cycles
 ```
 
 2. If you have a team of 15 people, assuming intercommunication between all of them, how many pairwise communication channels are there on your team?  (I am looking for a specific number, not a formula)
