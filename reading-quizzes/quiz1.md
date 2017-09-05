@@ -3,11 +3,11 @@ Name: `Christian Flickinger` Class start time: `1:00PM`
 1. According to Fred Brooks, what are three _joys_ of programming, that is, things that make it fun?
 
 ```
-____________________________________
+Joy of making things
 
-____________________________________
+Pleasure of making things that are useful to other people
 
-____________________________________
+Fascination of fashioning complex puzzle-like objects of interlocking moving parts and watching them work in subtle cycles
 ```
 
 2. If you have a team of 15 people, assuming intercommunication between all of them, how many pairwise communication channels are there on your team?  (I am looking for a specific number, not a formula)
